@@ -20,8 +20,8 @@ public class Extra2_RGM {
 			salario2+=resto*20;
 			
 			System.out.println("Buenas, tu salario semanal es de : "+ (salario+salario2)+" €");
-			System.out.println("Horas normales: "+salario+" €");
-			System.out.println("Horas extras: "+salario2+" €");
+			System.out.println("Horas normales: "+salario+" €.");
+			System.out.println("Horas extras: "+salario2+" €.");
 		}
 
 	}
